@@ -1,3 +1,7 @@
-// use strict
+"use strict";
 
-alert(3 + 5 + 8 / 2);
+let name = "Dmitrii",
+  age = 25,
+  message = name + ", " + age + " лет";
+
+alert(message);
